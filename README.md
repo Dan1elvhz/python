@@ -1,3 +1,3 @@
 # python
 
-Tohle je skolni projekt pro mini programy v pythonu
+Tohle je skolni projekt pro mini programy v pythonu.
